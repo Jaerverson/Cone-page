@@ -1,2 +1,2 @@
-# Cone-page
+# Time tracking dashboard
 Training skills. 
